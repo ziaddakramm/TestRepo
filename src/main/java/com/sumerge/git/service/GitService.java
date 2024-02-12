@@ -8,7 +8,7 @@ public class GitService {
 
     public String helloGit()
     {
-        return "hello gittttttt";
+        return "hello git ";
     }
 
 }
