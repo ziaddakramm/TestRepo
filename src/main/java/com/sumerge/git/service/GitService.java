@@ -6,7 +6,9 @@ import org.springframework.stereotype.Service;
 @Service
 public class GitService {
 
-    public void helloGit()
-    {}
+    public String helloGit()
+    {
+        return "hello git";
+    }
 
 }
